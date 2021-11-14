@@ -1,0 +1,1 @@
+Examples while following along with "Learn C the Hard Way" - Zed A. Shaw
